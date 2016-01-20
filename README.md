@@ -1,4 +1,4 @@
-# Teamm 23 Project Charter <br> Polymorphic ARM Assembly Encoder#
+# Team 23 Project Charter <br> Polymorphic ARM Assembly Encoder#
 
 ## Team Members:
 Abdalla Almazmi, Samuel Fellers, Jacob Stuart, Rishabh Saxena, Chris Von Hoene
