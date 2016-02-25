@@ -9,8 +9,8 @@ require 'msf/core'
 # Probably right
 class ARMR < Msf::Encoder::XorAdditiveFeedback
 
-	def get_bad_chars
-		return state.badchars
-	end
+    def get_bad_chars
+        return state.badchars
+    end
 
 end
