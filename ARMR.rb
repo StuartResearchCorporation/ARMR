@@ -1,6 +1,6 @@
 ##
 # This module requires Metasploit: http://metasploit.com/download
-# Current source: 
+# Current source: https://github.com/StuartResearchCorporation/ARMR/blob/master/ARMR.rb
 ##
 
 require 'rex/poly'
